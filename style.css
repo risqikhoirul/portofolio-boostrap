@@ -1,0 +1,21 @@
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: #e3e3e3;
+}
+#project {
+  background-color: #e3e3e3;
+}
+footer {
+  background-color: #e3e3e3;
+  padding: 3rem;
+}
+section {
+  padding: 5rem;
+}
+nav {
+  background-color: #e3e3e3;
+}
+#skill {
+  padding: 7rem;
+  padding-bottom: 12rem;
+}
